@@ -1,0 +1,13 @@
+nav {
+    color: #00ffff;
+    font-size: 1.7em;
+    letter-spacing: 0.4em;
+    padding: 1.0em 1.0em 0.5em;
+    margin: 1.0em;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
